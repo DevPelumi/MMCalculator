@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div
-      className="App flex py-4 px-60 font-sans bg-gradient-to-r from-cyan-500 to-blue-500 
+      className="App flex py-20 px-4 font-sans bg-gradient-to-r from-cyan-500 to-blue-500 
       "
       style={{ backgroundColor: "#f1fafc", height: "100vh" }}
     >
