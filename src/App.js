@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import MyForm from "./chemistry";
 import Molarmass from "molarmass.js";
